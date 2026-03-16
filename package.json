@@ -1,0 +1,31 @@
+{
+  "name": "ad_swiggy_project",
+  "version": "1.0.0",
+  "description": "this is a swiggy project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketXD1/AD_Swiggy_Project.git"
+  },
+  "keywords": [],
+  "author": "Aniket Deshpande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketXD1/AD_Swiggy_Project/issues"
+  },
+  "homepage": "https://github.com/AniketXD1/AD_Swiggy_Project#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
