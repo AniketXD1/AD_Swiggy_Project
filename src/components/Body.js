@@ -2,6 +2,7 @@ import RestaurantCard from "./RestaurantCard";
 // import resList from "../utils/mockData";
 import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer";
+import { Link } from "react-router";
 
 const Body = () => {
   const [listOfRestaurants, setListOfRestraunt] = useState([]);
@@ -84,7 +85,12 @@ const Body = () => {
       <div className="res-container">
         {/* RestaurantCard we build separate component we can use agian and agian */}
         {filteredRestaurant.map((restaurant) => (
-          <RestaurantCard key={restaurant.info.id} resData={restaurant} />
+          <Link
+            key={restaurant.info.id}
+            to={"/restaurants/" + restaurant.info.id}
+          >
+            <RestaurantCard resData={restaurant} />
+          </Link>
         ))}
       </div>
     </div>
