@@ -1,0 +1,2700 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Mullaji Zillah Biryani Center",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "180402",
+              "name": "Mullaji Zillah Biryani Center",
+              "city": "Nagpur",
+              "slugs": {
+                "restaurant": "mullaji-zillah-biryani-centre-sadar",
+                "city": "nagpur"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "enh2ihuirlv2dl5lon5n",
+              "locality": "Sadar",
+              "areaName": "Sadar",
+              "costForTwo": "30000",
+              "costForTwoMessage": "₹300 for two",
+              "cuisines": ["Biryani", "North indian"],
+              "avgRating": 4.3,
+              "feeDetails": {
+                "restaurantId": "180402",
+                "fees": [{}]
+              },
+              "parentId": "141304",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "18K+ ratings",
+              "sla": {
+                "restaurantId": "180402",
+                "deliveryTime": 32,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_LIGHT",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 437,
+                "slaString": "30-40 MINS",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-07-21 00:00:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "70% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "70% off | Use DISHCOUNT",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "70% off | Use DISHCOUNT",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹25 off | Use BHIMUPI25 Above ₹149",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "mullaji-zillah-biryani-centre-sadar",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "SHOP NO 52 MINI MANGALWARI BAJAR COMPLEX SADAR , District - Nagpur-1, STATE - Maharashtra - 440001"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Biryani,North indian"
+                }
+              ],
+              "totalRatings": 18000,
+              "aggregatedDiscountInfoV2": {
+                "header": "70% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "70% off | Use DISHCOUNT",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "70% off | Use DISHCOUNT",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹25 off | Use BHIMUPI25 Above ₹149",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 69,
+                  "maxValue": 99,
+                  "priority": 1,
+                  "couponCode": "DISHCOUNT",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 70
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save upto ₹140 | Code DISHCOUNT",
+                  "unlockedMessage": "DISHCOUNT Coupon Unlocked! Use it to save upto ₹140",
+                  "logoCtx": {},
+                  "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                },
+                {
+                  "minValue": 419,
+                  "maxValue": 599,
+                  "priority": 4,
+                  "couponCode": "FLAT200",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 200
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹200 | Code FLAT200",
+                  "unlockedMessage": "FLAT200 Coupon Unlocked! Use it to save ₹200",
+                  "logoCtx": {},
+                  "movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/180402"
+              },
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {},
+                "commsStyling": {}
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "21.1657289,79.08193660000006",
+              "backgroundImageOverlayInfo": {},
+              "featuredSectionInfo": {},
+              "timingsInfo": {
+                "status": "Open now",
+                "message": "Closes 12:00 am",
+                "outletTiming": {
+                  "infoList": [
+                    {
+                      "title": "Monday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "primary",
+                      "subtitleColor": "primary"
+                    },
+                    {
+                      "title": "Tuesday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Wednesday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Thursday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Friday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Saturday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Sunday",
+                      "subtitle": "11.10AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    }
+                  ],
+                  "title": "Outlet timings"
+                },
+                "styleInfo": {
+                  "titleColor": "positive",
+                  "subtitleColor": "text_color_low_emphasis"
+                }
+              },
+              "phone": "9579749853",
+              "postalCode": "440001"
+            },
+            "analytics": {}
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10
+                }
+              },
+              "scrollBar": {
+                "scrollThumbColor": "#E46D47",
+                "scrollTrackColor": "#e4e4e4",
+                "width": 54,
+                "height": 4,
+                "scrollStyling": {
+                  "padding": {
+                    "top": 20,
+                    "bottom": 20
+                  }
+                }
+              }
+            },
+            "id": "offerCollectionWidget",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "70% OFF UPTO ₹140",
+                      "offerTag": "DEFAULT",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["4cb61308-1454-4789-a87a-adbf84ff7bd1"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE DISHCOUNT",
+                      "offerType": "offers",
+                      "restId": "180402",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE DISHCOUNT"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹25 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/6/30/886e4b18-07f5-4eeb-b356-b508ec058aa4_BHIMMenuVisibilityLogo2.png",
+                      "offerIds": ["6ce301f2-ae8a-45f0-ab1d-dd8f2d236855"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE BHIMUPI25",
+                      "description": "ABOVE ₹149",
+                      "offerType": "offers",
+                      "restId": "180402",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/6/30/886e4b18-07f5-4eeb-b356-b508ec058aa4_BHIMMenuVisibilityLogo2.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE BHIMUPI25"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹125 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["cadbaed0-c9d8-4139-9ad4-27acddb50854"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT125",
+                      "description": "ABOVE ₹199",
+                      "offerType": "offers",
+                      "restId": "180402",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAT125"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹200 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["1d26690f-7284-412e-abd5-de4ba2337dfb"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT200",
+                      "description": "ABOVE ₹599",
+                      "offerType": "offers",
+                      "restId": "180402",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAT200"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹75",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/7841ada3-e1b0-45dc-93ef-287956cbcebb_Visa.png",
+                      "offerIds": ["2b8ea76f-48ac-4f20-b28f-abb1c63cc5a2"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE VISAPLATINUMCC",
+                      "description": "ABOVE ₹600",
+                      "offerType": "offers",
+                      "restId": "180402",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/7/1/7841ada3-e1b0-45dc-93ef-287956cbcebb_Visa.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE VISAPLATINUMCC"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuTab",
+            "tabs": [
+              {
+                "id": "REGULAR",
+                "title": "Full Menu",
+                "selected": true,
+                "analytics": {},
+                "selectedImage": "v1594205104/fullMenuActive_qcsdzt.png",
+                "unselectedImage": "v1594205107/fullMenuInactive_fbdtp2.png"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "39903163",
+                              "name": "Chicken Biryani [1 Half]",
+                              "category": "Biryani",
+                              "description": "Chicken Biryani Masala. (Spicy, Bestseller)",
+                              "imageId": "teqb9f1gxlovejor5xxr",
+                              "inStock": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "346 ratings",
+                                  "ratingCountV2": "346"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#C8F9E5", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "90340225",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "19900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED",
+                      "subtitleSuffix": {},
+                      "categoryId": "-1"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "39903163",
+                              "name": "Chicken Biryani [1 Half]",
+                              "category": "Biryani",
+                              "description": "Chicken Biryani Masala. (Spicy, Bestseller)",
+                              "imageId": "teqb9f1gxlovejor5xxr",
+                              "inStock": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "346 ratings",
+                                  "ratingCountV2": "346"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#C8F9E5", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "90340225",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "19900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "168868833",
+                              "name": "Chicken Biryani (Full)",
+                              "category": "Biryani",
+                              "description": "Chicken Biryani Masala. (Spicy, Bestseller)",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/199d7ef4-5457-4df5-aef6-137c462f81b2_0b4a6760-d57c-4742-be37-1a010f76c28b.JPG",
+                              "inStock": 1,
+                              "price": 30900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "879 ratings",
+                                  "ratingCountV2": "879"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#C8F9E5", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "87574748",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "30900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "168867395",
+                              "name": "Chicken Leg Biryani (half1)",
+                              "category": "Biryani",
+                              "description": "Chicken Leg Piece With Biryani Rice. (Spicy)",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/19/367b5d11-57f7-47fc-bef4-356b0aab229f_41062bb0-8a27-4174-a2ad-3bc74cfaf62c.jpg",
+                              "inStock": 1,
+                              "price": 22900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "302 ratings",
+                                  "ratingCountV2": "302"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#C8F9E5", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "103599480",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "22900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "168867396",
+                              "name": "Chicken Biryani 1 Kg",
+                              "category": "Biryani",
+                              "description": "Generous Portion Of Classic Chicken Biryani.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/b865380a-063a-4175-91c8-87eec886a59c_b9d6901e-1cc9-4769-beeb-0df3396ccc0f.JPG",
+                              "inStock": 1,
+                              "price": 44900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "980 ratings",
+                                  "ratingCountV2": "980"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#C8F9E5", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "6563053",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "44900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "168867397",
+                              "name": "Chicken Leg Biryani 1 Kg",
+                              "category": "Biryani",
+                              "description": "Flavorful Biryani With Tender Chicken Leg Pieces.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/13/200633d5-90d5-4738-8099-e0d9ff80f24f_b43d87f3-ce9c-4402-85b0-72731de8f3fa.JPG",
+                              "inStock": 1,
+                              "price": 47900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "118 ratings",
+                                  "ratingCountV2": "118"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#C8F9E5", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "86935920",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "NONVEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "47900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "204621238",
+                              "name": "Chicken Biryani [1Kg]",
+                              "category": "Biryani",
+                              "inStock": 1,
+                              "price": 44900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "6563053",
+                              "menuFilterIds": ["bestseller", "NONVEG"],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "44900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "205611854",
+                              "name": "Chicken Leg Biryani [Full]",
+                              "category": "Biryani",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/19/367b5d11-57f7-47fc-bef4-356b0aab229f_41062bb0-8a27-4174-a2ad-3bc74cfaf62c.jpg",
+                              "inStock": 1,
+                              "price": 34900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              },
+                              "parentId": "88891137",
+                              "menuFilterIds": ["NONVEG"],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "34900",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "teqb9f1gxlovejor5xxr",
+                      "categoryId": "15248280"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Combos Rice & Dal",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "73752992",
+                              "name": "Jeera Rice With Dal (Half)",
+                              "category": "Combos Rice & Dal",
+                              "description": "Fragrant Jeera Rice Served With Dal. (Subject To Availability)",
+                              "imageId": "q3vwpy9pkbcrlnretyvz",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.4",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#D9EFEC", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "102074508",
+                              "menuFilterIds": ["VEG"],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "15000",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "168867398",
+                              "name": "Jerra rice (full palet) ",
+                              "category": "Combos Rice & Dal",
+                              "description": "Spicy Rice Infused With Biryani Masala.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/26/397b00d3-1281-42ae-a103-f48cb64dfd0a_22e61440-43f0-460c-a483-88b439130afd.JPG",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 25000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "58274686",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "180832853",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "1 Kg",
+                                        "price": 18000,
+                                        "id": "180832854",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.6",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": ["#FFF0CD", "#00FFFFFF"],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_low",
+                                  "ratingTextColor": "rating_low",
+                                  "ratingCountTextColor": "rating_low",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "102074509",
+                              "menuFilterIds": ["VEG"],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "25000",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "q3vwpy9pkbcrlnretyvz",
+                      "categoryId": "60826906"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                      "header": {
+                        "title": "Related to Mullaji Zillah Biryani Center",
+                        "headerStyling": {
+                          "padding": {
+                            "left": 20,
+                            "top": 24,
+                            "bottom": 16
+                          },
+                          "titleSize": 18,
+                          "subtitleSize": 14,
+                          "titleColor": "#3e4152",
+                          "titleFontName": "FONT_NAME_ALL_CAPS_AC1"
+                        }
+                      },
+                      "layout": {
+                        "rows": 1,
+                        "columns": 6,
+                        "horizontalScrollEnabled": true,
+                        "widgetPadding": {},
+                        "containerStyle": {
+                          "containerPadding": {
+                            "left": 8,
+                            "right": 12,
+                            "bottom": 16
+                          }
+                        },
+                        "scrollBar": {
+                          "scrollThumbColor": "#E46D47",
+                          "scrollTrackColor": "#E4E4E4",
+                          "width": 54,
+                          "height": 4,
+                          "scrollStyling": {
+                            "padding": {
+                              "top": 6,
+                              "bottom": 24
+                            }
+                          }
+                        },
+                        "backgroundColor": "#F1F8FF",
+                        "widgetBorderStyle": {
+                          "top": {
+                            "color": "#E7F4FD",
+                            "height": 1
+                          },
+                          "bottom": {
+                            "color": "#E7F4FD",
+                            "height": 1
+                          },
+                          "left": {},
+                          "right": {}
+                        },
+                        "widgetTheme": {
+                          "defaultMode": {
+                            "backgroundColour": "#F0F0F5",
+                            "theme": "THEME_TYPE_LIGHT",
+                            "themeVariant": "THEME_VARIANT_DEFAULT"
+                          },
+                          "darkMode": {
+                            "backgroundColour": "#1B3028",
+                            "theme": "THEME_TYPE_DARK",
+                            "themeVariant": "THEME_VARIANT_DEFAULT"
+                          }
+                        }
+                      },
+                      "id": "adsOnlyMenuSimilarRestaurantWidgetUX4Test",
+                      "gridElements": {
+                        "infoWithStyle": {
+                          "@type": "type.googleapis.com/swiggy.presentation.food.v2.SimilarRestaurantsInfoWithStyle",
+                          "restaurants": [
+                            {
+                              "info": {
+                                "id": "1035207",
+                                "name": "S K RTO Biryani center",
+                                "slugs": {
+                                  "city": "Nagpur"
+                                },
+                                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/28/7f85c854-350b-44b4-aa31-e1fc885c7fe6_1035207.jpg",
+                                "locality": "Pachpaoli",
+                                "areaName": "Sadar",
+                                "costForTwo": "₹300 for two",
+                                "cuisines": ["Biryani"],
+                                "avgRating": 4.5,
+                                "parentId": "602583",
+                                "avgRatingString": "4.5",
+                                "totalRatingsString": "24",
+                                "adTrackingId": "cid=0d16aee5-c8bb-4888-bec7-68b08db776ca~p=0~adgrpid=0d16aee5-c8bb-4888-bec7-68b08db776ca#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=1035207~plpr=HOME#SIMILAR_ENTITY~eid=e5a3fd77-e199-4859-b7d2-f1b999fc1de0~srvts=1784551034093~arid=180402",
+                                "sla": {
+                                  "deliveryTime": 41,
+                                  "lastMileTravel": 5.8,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "40-45 mins",
+                                  "lastMileTravelString": "5.8 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-21 01:30:00",
+                                  "opened": true
+                                },
+                                "badges": {},
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {},
+                                    "imageBased": {},
+                                    "textExtendedBadges": {}
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "20% OFF",
+                                  "subHeader": "UPTO ₹50",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nagpur/s-k-rto-biryani-center-pachpaoli-sadar-rest1035207",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {},
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {},
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "0d16aee5-c8bb-4888-bec7-68b08db776ca",
+                                "priceComparisonComms": {}
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=0d16aee5-c8bb-4888-bec7-68b08db776ca~p=0~adgrpid=0d16aee5-c8bb-4888-bec7-68b08db776ca#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=1035207~plpr=HOME#SIMILAR_ENTITY~eid=e5a3fd77-e199-4859-b7d2-f1b999fc1de0~srvts=1784551034093~arid=180402~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4\"}",
+                                "objectValue": "1035207",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nagpur/s-k-rto-biryani-center-pachpaoli-sadar-rest1035207",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "734134",
+                                "name": "Mullaji Zillha Biryani family Restaurant",
+                                "slugs": {
+                                  "city": "Nagpur"
+                                },
+                                "cloudinaryImageId": "ab35c44ca42582ee15320a8e46d1bef3",
+                                "locality": "Jagrut Nagar",
+                                "areaName": "Jagrut Nagar",
+                                "costForTwo": "₹300 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "North Indian",
+                                  "Chinese",
+                                  "Mughlai",
+                                  "Tandoor",
+                                  "Kebabs",
+                                  "Beverages",
+                                  "Desserts"
+                                ],
+                                "avgRating": 4.2,
+                                "parentId": "435733",
+                                "avgRatingString": "4.2",
+                                "totalRatingsString": "862",
+                                "adTrackingId": "cid=2d7e2032-3b5a-4a35-a404-265003b6d08f~p=1~adgrpid=2d7e2032-3b5a-4a35-a404-265003b6d08f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=734134~plpr=HOME#SIMILAR_ENTITY~eid=af710ef1-a837-4827-a7a1-204650dadf8a~srvts=1784551034093~arid=180402",
+                                "sla": {
+                                  "deliveryTime": 56,
+                                  "lastMileTravel": 5.7,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "55-65 mins",
+                                  "lastMileTravelString": "5.7 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-21 00:00:00",
+                                  "opened": true
+                                },
+                                "badges": {},
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {},
+                                    "imageBased": {},
+                                    "textExtendedBadges": {}
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "70% OFF",
+                                  "subHeader": "UPTO ₹140",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nagpur/mullaji-zillha-biryani-family-restaurant-jagrut-nagar-rest734134",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {},
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {},
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "2d7e2032-3b5a-4a35-a404-265003b6d08f",
+                                "priceComparisonComms": {}
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=2d7e2032-3b5a-4a35-a404-265003b6d08f~p=1~adgrpid=2d7e2032-3b5a-4a35-a404-265003b6d08f#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=734134~plpr=HOME#SIMILAR_ENTITY~eid=af710ef1-a837-4827-a7a1-204650dadf8a~srvts=1784551034093~arid=180402~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4\"}",
+                                "objectValue": "734134",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nagpur/mullaji-zillha-biryani-family-restaurant-jagrut-nagar-rest734134",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "639444",
+                                "name": "Dum Safar Biryani",
+                                "slugs": {
+                                  "city": "Nagpur"
+                                },
+                                "cloudinaryImageId": "47eee43e59a6d49b0f6d9a2b0e523f47",
+                                "locality": "Amravati Rd",
+                                "areaName": "ETERNITY MALL",
+                                "costForTwo": "₹500 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "Hyderabadi",
+                                  "Kebabs",
+                                  "North Indian",
+                                  "barbeque"
+                                ],
+                                "avgRating": 4.1,
+                                "parentId": "351013",
+                                "avgRatingString": "4.1",
+                                "totalRatingsString": "1.1K+",
+                                "adTrackingId": "cid=2d40661a-77ca-47ca-acd7-4440d8c5ddfc~p=2~adgrpid=2d40661a-77ca-47ca-acd7-4440d8c5ddfc#ag19~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=639444~plpr=HOME#SIMILAR_ENTITY~eid=e9aa915b-630a-497e-bdd6-d0b85f2902fb~srvts=1784551034093~arid=180402",
+                                "sla": {
+                                  "deliveryTime": 45,
+                                  "lastMileTravel": 2.4,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "40-45 mins",
+                                  "lastMileTravelString": "2.4 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-21 01:00:00",
+                                  "opened": true
+                                },
+                                "badges": {},
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {},
+                                    "imageBased": {},
+                                    "textExtendedBadges": {}
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "60% OFF",
+                                  "subHeader": "UPTO ₹120",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nagpur/dum-safar-biryani-amravati-rd-eternity-mall-rest639444",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {},
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {},
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "2d40661a-77ca-47ca-acd7-4440d8c5ddfc",
+                                "priceComparisonComms": {}
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=2d40661a-77ca-47ca-acd7-4440d8c5ddfc~p=2~adgrpid=2d40661a-77ca-47ca-acd7-4440d8c5ddfc#ag19~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=639444~plpr=HOME#SIMILAR_ENTITY~eid=e9aa915b-630a-497e-bdd6-d0b85f2902fb~srvts=1784551034093~arid=180402~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4\"}",
+                                "objectValue": "639444",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nagpur/dum-safar-biryani-amravati-rd-eternity-mall-rest639444",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "53419",
+                                "name": "Behrouz Biryani",
+                                "slugs": {
+                                  "city": "Nagpur"
+                                },
+                                "cloudinaryImageId": "1a8dfa8b2a73ddf7c6193465ab24c898",
+                                "locality": "Mohan Nagar",
+                                "areaName": "Sadar",
+                                "costForTwo": "₹500 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "North Indian",
+                                  "Kebabs",
+                                  "Mughlai",
+                                  "Beverages",
+                                  "Desserts"
+                                ],
+                                "avgRating": 4.3,
+                                "parentId": "1803",
+                                "avgRatingString": "4.3",
+                                "totalRatingsString": "7.8K+",
+                                "adTrackingId": "cid=466b9139-6baf-44f2-8f80-ad3fa03f18c5~p=3~adgrpid=466b9139-6baf-44f2-8f80-ad3fa03f18c5#ag15~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=53419~plpr=HOME#SIMILAR_ENTITY~eid=a0c322b4-a40a-49f8-962d-a77c18f03215~srvts=1784551034093~arid=180402",
+                                "sla": {
+                                  "deliveryTime": 37,
+                                  "lastMileTravel": 2.4,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "35-45 mins",
+                                  "lastMileTravelString": "2.4 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-20 23:59:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                                      "description": "Top-rated for Mughlai, based on user votes."
+                                    },
+                                    {
+                                      "imageId": "newg.png",
+                                      "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                                    }
+                                  ]
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textExtendedBadges": {},
+                                    "textBased": {},
+                                    "imageBased": {
+                                      "badgeObject": [
+                                        {
+                                          "attributes": {
+                                            "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                                            "description": "Top-rated for Mughlai, based on user votes.",
+                                            "theme": ""
+                                          }
+                                        },
+                                        {
+                                          "attributes": {
+                                            "imageId": "newg.png",
+                                            "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                                            "theme": ""
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "50% OFF",
+                                  "discountTag": "FLAT DEAL",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nagpur/behrouz-biryani-mohan-nagar-sadar-rest53419",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {},
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {},
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "466b9139-6baf-44f2-8f80-ad3fa03f18c5",
+                                "priceComparisonComms": {}
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=466b9139-6baf-44f2-8f80-ad3fa03f18c5~p=3~adgrpid=466b9139-6baf-44f2-8f80-ad3fa03f18c5#ag15~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=53419~plpr=HOME#SIMILAR_ENTITY~eid=a0c322b4-a40a-49f8-962d-a77c18f03215~srvts=1784551034093~arid=180402~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4\"}",
+                                "objectValue": "53419",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nagpur/behrouz-biryani-mohan-nagar-sadar-rest53419",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "198370",
+                                "name": "The Biryani Life",
+                                "slugs": {
+                                  "city": "Nagpur"
+                                },
+                                "cloudinaryImageId": "ogvl7goxjwyl8k1qglcx",
+                                "locality": "Mohan Nagar",
+                                "areaName": "Sadar",
+                                "costForTwo": "₹200 for two",
+                                "cuisines": [
+                                  "Biryani",
+                                  "Mughlai",
+                                  "Lucknowi",
+                                  "Hyderabadi",
+                                  "Kebabs",
+                                  "Desserts",
+                                  "Beverages"
+                                ],
+                                "avgRating": 4.1,
+                                "parentId": "8496",
+                                "avgRatingString": "4.1",
+                                "totalRatingsString": "1.3K+",
+                                "adTrackingId": "cid=de525200-b5a9-4ac1-b72d-4f81649a4eb6~p=4~adgrpid=de525200-b5a9-4ac1-b72d-4f81649a4eb6#ag15~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=198370~plpr=HOME#SIMILAR_ENTITY~eid=a3a59a66-eba4-412c-aebc-555905ff92d9~srvts=1784551034093~arid=180402",
+                                "sla": {
+                                  "deliveryTime": 31,
+                                  "lastMileTravel": 2.4,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "30-40 mins",
+                                  "lastMileTravelString": "2.4 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-20 23:59:00",
+                                  "opened": true
+                                },
+                                "badges": {
+                                  "imageBadges": [
+                                    {
+                                      "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png",
+                                      "description": "Top-rated for Mughlai, based on user votes."
+                                    }
+                                  ]
+                                },
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {},
+                                    "imageBased": {
+                                      "badgeObject": [
+                                        {
+                                          "attributes": {
+                                            "description": "Top-rated for Mughlai, based on user votes.",
+                                            "theme": "",
+                                            "imageId": "brand_cards/Badges%202026/67_Best%20in%20Mughlai2026.png"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "textExtendedBadges": {}
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "50% OFF",
+                                  "discountTag": "FLAT DEAL",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nagpur/the-biryani-life-mohan-nagar-sadar-rest198370",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {},
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {},
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "de525200-b5a9-4ac1-b72d-4f81649a4eb6",
+                                "priceComparisonComms": {}
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=de525200-b5a9-4ac1-b72d-4f81649a4eb6~p=4~adgrpid=de525200-b5a9-4ac1-b72d-4f81649a4eb6#ag15~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=198370~plpr=HOME#SIMILAR_ENTITY~eid=a3a59a66-eba4-412c-aebc-555905ff92d9~srvts=1784551034093~arid=180402~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4\"}",
+                                "objectValue": "198370",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nagpur/the-biryani-life-mohan-nagar-sadar-rest198370",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            },
+                            {
+                              "info": {
+                                "id": "711895",
+                                "name": "Arebiyan Amirat Biryani",
+                                "slugs": {
+                                  "city": "Nagpur"
+                                },
+                                "cloudinaryImageId": "f39c290d94823c1d04c6ee489a99b516",
+                                "locality": "Sadar",
+                                "areaName": "Sadar",
+                                "costForTwo": "₹200 for two",
+                                "cuisines": [
+                                  "North Indian",
+                                  "Indian",
+                                  "Snacks",
+                                  "Thalis"
+                                ],
+                                "avgRating": 3.4,
+                                "parentId": "425150",
+                                "avgRatingString": "3.4",
+                                "totalRatingsString": "84",
+                                "adTrackingId": "cid=73858a2c-c6f9-43eb-84b8-ace2d01e4bc6~p=5~adgrpid=73858a2c-c6f9-43eb-84b8-ace2d01e4bc6#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=711895~plpr=HOME#SIMILAR_ENTITY~eid=fe819605-4896-47ac-8a01-a9ed2d98a5d6~srvts=1784551034093~arid=180402",
+                                "sla": {
+                                  "deliveryTime": 57,
+                                  "lastMileTravel": 7,
+                                  "serviceability": "SERVICEABLE",
+                                  "slaString": "55-65 mins",
+                                  "lastMileTravelString": "7.0 km",
+                                  "iconType": "ICON_TYPE_EMPTY"
+                                },
+                                "availability": {
+                                  "nextCloseTime": "2026-07-20 23:30:00",
+                                  "opened": true
+                                },
+                                "badges": {},
+                                "isOpen": true,
+                                "badgesV2": {
+                                  "entityBadges": {
+                                    "textBased": {},
+                                    "imageBased": {},
+                                    "textExtendedBadges": {}
+                                  }
+                                },
+                                "aggregatedDiscountInfoV3": {
+                                  "header": "ITEMS",
+                                  "subHeader": "AT ₹39",
+                                  "logoCtx": {
+                                    "text": "BENEFITS"
+                                  }
+                                },
+                                "cta": {
+                                  "link": "https://www.swiggy.com/city/nagpur/arebiyan-amirat-biryani-sadar-rest711895",
+                                  "text": "RESTAURANT_MENU",
+                                  "type": "DEEPLINK"
+                                },
+                                "differentiatedUi": {
+                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                  "differentiatedUiMediaDetails": {
+                                    "mediaType": "ADS_MEDIA_ENUM_IMAGE"
+                                  }
+                                },
+                                "reviewsSummary": {},
+                                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                "restaurantOfferPresentationInfo": {},
+                                "externalRatings": {
+                                  "aggregatedRating": {
+                                    "rating": "--"
+                                  }
+                                },
+                                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                                "campaignId": "73858a2c-c6f9-43eb-84b8-ace2d01e4bc6",
+                                "priceComparisonComms": {}
+                              },
+                              "analytics": {
+                                "screenName": "ux4-home-page",
+                                "context": "{\"adTrackingId\":\"cid=73858a2c-c6f9-43eb-84b8-ace2d01e4bc6~p=5~adgrpid=73858a2c-c6f9-43eb-84b8-ace2d01e4bc6#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=711895~plpr=HOME#SIMILAR_ENTITY~eid=fe819605-4896-47ac-8a01-a9ed2d98a5d6~srvts=1784551034093~arid=180402~wn=adsOnlyMenuSimilarRestaurantWidget~wn=adsOnlyMenuSimilarRestaurantWidget\",\"tid\":\"eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4\"}",
+                                "objectValue": "711895",
+                                "impressionObjectName": "impression-similar-restaurant-item-ad",
+                                "clickObjectName": "click-similar-restaurant-item-ad"
+                              },
+                              "cta": {
+                                "link": "https://www.swiggy.com/city/nagpur/arebiyan-amirat-biryani-sadar-rest711895",
+                                "text": "RESTAURANT_MENU",
+                                "type": "DEEPLINK"
+                              }
+                            }
+                          ],
+                          "widgetType": "WIDGET_TYPE_SRW",
+                          "style": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoContent",
+                      "title": "About Mullaji Zillah Biryani Center",
+                      "description": "<section><h3>Best-Selling Dishes at Mullaji Zillah Biryani Center</h3><p>Mullaji Zillah Biryani Center is a popular food destination in Sadar, Nagpur, known for serving delicious indian food. Customers can order from Mullaji Zillah Biryani Center for fresh preparation, satisfying portions, and flavorful dishes.</p><h3>Chicken Biryani 1 Kg</h3><p>Chicken Biryani 1 Kg is one of the popular dishes at Mullaji Zillah Biryani Center. It is prepared with quality ingredients and offers a satisfying taste for customers ordering from Sadar.</p><h3>Chicken Biryani (Full)</h3><p>Chicken Biryani (Full) is another preferred item from the menu. It is a good choice for customers looking to enjoy tasty indian food in Nagpur.</p><h3>Why Customers Love Ordering from Mullaji Zillah Biryani Center</h3><p>Customers prefer Mullaji Zillah Biryani Center for its tasty food, reliable service, quick preparation, and menu choices. The restaurant serves indian dishes along with options such as other rice varieties, making it suitable for different food preferences.</p><h3>Enjoy Food from Mullaji Zillah Biryani Center at Home with Swiggy</h3><p>Swiggy makes it easy to order food from Mullaji Zillah Biryani Center in Nagpur. Customers can browse the menu, choose their favorite dishes, place an order online, make secure payments, track the order live, and enjoy doorstep delivery from Mullaji Zillah Biryani Center in Sadar.</p><h3>Discover More Restaurants in Sadar</h3><p>Sadar has many restaurants offering different cuisines, snacks, meals, desserts, and beverages. Customers exploring food delivery in Nagpur can discover more restaurants and order their favorite food online through Swiggy.</p></section>"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                      "title": "FAQs about Mullaji Zillah Biryani Center",
+                      "qnas": [
+                        {
+                          "question": "Does Mullaji Zillah Biryani Center deliver food in Nagpur on Swiggy?",
+                          "answer": "Yes, Mullaji Zillah Biryani Center delivers food in Nagpur through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                        },
+                        {
+                          "question": "What is Mullaji Zillah Biryani Center known for?",
+                          "answer": "Mullaji Zillah Biryani Center is known for its popular indian dishes."
+                        },
+                        {
+                          "question": "What are the most popular dishes at Mullaji Zillah Biryani Center?",
+                          "answer": "Some of the popular dishes at Mullaji Zillah Biryani Center include Chicken Biryani 1 Kg, Chicken Biryani (Full), Chicken Biryani [1 Half], and Chicken Leg Biryani (half1)."
+                        },
+                        {
+                          "question": "Does Mullaji Zillah Biryani Center offer vegetarian options?",
+                          "answer": "Yes, Mullaji Zillah Biryani Center offers both options, including 2 vegetarian items."
+                        },
+                        {
+                          "question": "How can I order from Mullaji Zillah Biryani Center online?",
+                          "answer": "Customers can open the Swiggy app or website, search for Mullaji Zillah Biryani Center in Nagpur, browse the menu, add dishes to the cart, and place the order online."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 11521055000848"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Mullaji Zillah Biryani Center",
+                      "area": "Sadar",
+                      "completeAddress": "SHOP NO 52 MINI MANGALWARI BAJAR COMPLEX SADAR , District - Nagpur-1, STATE - Maharashtra - 440001"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                      "title": "Popular Searches",
+                      "interlinkingSeoInfo": [
+                        {
+                          "title": "Popular Restaurant Near Sadar",
+                          "links": [
+                            {
+                              "label": "Cafe Illusions",
+                              "url": "https://www.swiggy.com/city/nagpur/cafe-illusions-sadar-rest53363"
+                            },
+                            {
+                              "label": "BARBECUE Sadar",
+                              "url": "https://www.swiggy.com/city/nagpur/barbecue-sadar-sadar-rest58210"
+                            },
+                            {
+                              "label": "Burger King",
+                              "url": "https://www.swiggy.com/city/nagpur/burger-king-sadar-rest1008366"
+                            },
+                            {
+                              "label": "Haldiram's Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-restaurant-sadar-rest311585"
+                            },
+                            {
+                              "label": "Mullaji Zillah Biryani Center",
+                              "url": "https://www.swiggy.com/city/nagpur/mullaji-zillah-biryani-center-sadar-rest180402"
+                            },
+                            {
+                              "label": "Hyderabad Biryani.com",
+                              "url": "https://www.swiggy.com/city/nagpur/hyderabad-biryani-com-sadar-rest406148"
+                            },
+                            {
+                              "label": "Burger Singh(Big Punjabi Burgers)",
+                              "url": "https://www.swiggy.com/city/nagpur/burger-singh-big-punjabi-burgers--sadar-rest769581"
+                            },
+                            {
+                              "label": "Kings Restro And Cafe",
+                              "url": "https://www.swiggy.com/city/nagpur/kings-restro-and-cafe-sadar-rest730790"
+                            },
+                            {
+                              "label": "Brim - Corridor Seven Cafe",
+                              "url": "https://www.swiggy.com/city/nagpur/brim-corridor-seven-cafe-sadar-rest1301910"
+                            },
+                            {
+                              "label": "Checkers",
+                              "url": "https://www.swiggy.com/city/nagpur/checkers-sadar-rest56350"
+                            },
+                            {
+                              "label": "Meal Box - Thali, Biryani & Combo",
+                              "url": "https://www.swiggy.com/city/nagpur/meal-box-thali-biryani-and-combo-sadar-rest840018"
+                            },
+                            {
+                              "label": "Haldiram's Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-restaurant-sadar-rest772911"
+                            },
+                            {
+                              "label": "McDonald's",
+                              "url": "https://www.swiggy.com/city/nagpur/mcdonalds-sadar-rest256895"
+                            },
+                            {
+                              "label": "Yummi Momos",
+                              "url": "https://www.swiggy.com/city/nagpur/yummi-momos-sadar-rest81070"
+                            },
+                            {
+                              "label": "Bikkgane Biryani",
+                              "url": "https://www.swiggy.com/city/nagpur/bikkgane-biryani-sadar-rest1117364"
+                            },
+                            {
+                              "label": "Haldiram's Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-restaurant-sadar-rest53585"
+                            },
+                            {
+                              "label": "Delhi Chaap Corner",
+                              "url": "https://www.swiggy.com/city/nagpur/delhi-chaap-corner-sadar-rest360843"
+                            },
+                            {
+                              "label": "Haldiram's Sweets and Namkeen",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-sweets-and-namkeen-sadar-rest772775"
+                            },
+                            {
+                              "label": "Theobroma",
+                              "url": "https://www.swiggy.com/city/nagpur/theobroma-sadar-rest678820"
+                            },
+                            {
+                              "label": "Babbu Hotel",
+                              "url": "https://www.swiggy.com/city/nagpur/babbu-hotel-sadar-rest215474"
+                            },
+                            {
+                              "label": "Kings Kitchen",
+                              "url": "https://www.swiggy.com/city/nagpur/kings-kitchen-sadar-rest102728"
+                            },
+                            {
+                              "label": "Krishnum Food Plaza",
+                              "url": "https://www.swiggy.com/city/nagpur/krishnum-food-plaza-sadar-rest56382"
+                            },
+                            {
+                              "label": "Frullato",
+                              "url": "https://www.swiggy.com/city/nagpur/frullato-sadar-rest324756"
+                            },
+                            {
+                              "label": "Pizza Hut",
+                              "url": "https://www.swiggy.com/city/nagpur/pizza-hut-sadar-rest528951"
+                            },
+                            {
+                              "label": "Natural Ice Cream",
+                              "url": "https://www.swiggy.com/city/nagpur/natural-ice-cream-sadar-rest683827"
+                            },
+                            {
+                              "label": "Udupi Gokula",
+                              "url": "https://www.swiggy.com/city/nagpur/udupi-gokula-sadar-rest443149"
+                            },
+                            {
+                              "label": "Snackify",
+                              "url": "https://www.swiggy.com/city/nagpur/snackify-sadar-rest1089619"
+                            },
+                            {
+                              "label": "Liberty Family Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/liberty-family-restaurant-sadar-rest60607"
+                            },
+                            {
+                              "label": "Subway",
+                              "url": "https://www.swiggy.com/city/nagpur/subway-sadar-rest58701"
+                            },
+                            {
+                              "label": "Veeraswami",
+                              "url": "https://www.swiggy.com/city/nagpur/veeraswami-sadar-rest56370"
+                            },
+                            {
+                              "label": "Wendy's Burgers",
+                              "url": "https://www.swiggy.com/city/nagpur/wendys-burgers-sadar-rest720356"
+                            },
+                            {
+                              "label": "Panino'S Pasta & Co",
+                              "url": "https://www.swiggy.com/city/nagpur/paninos-pasta-and-co-sadar-rest1308484"
+                            },
+                            {
+                              "label": "Zauq Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/zauq-restaurant-sadar-rest924724"
+                            },
+                            {
+                              "label": "Faasos - Wraps, Rolls & Shawarma",
+                              "url": "https://www.swiggy.com/city/nagpur/faasos-wraps-rolls-and-shawarma-sadar-rest53418"
+                            },
+                            {
+                              "label": "Haldiram's Sweets and Namkeen",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-sweets-and-namkeen-sadar-rest287751"
+                            },
+                            {
+                              "label": "Uttar Dakshin By Naivedhyam",
+                              "url": "https://www.swiggy.com/city/nagpur/uttar-dakshin-by-naivedhyam-sadar-rest293389"
+                            },
+                            {
+                              "label": "Hungry Eyes",
+                              "url": "https://www.swiggy.com/city/nagpur/hungry-eyes-sadar-rest734131"
+                            },
+                            {
+                              "label": "Bussin Wok",
+                              "url": "https://www.swiggy.com/city/nagpur/bussin-wok-sadar-rest400958"
+                            },
+                            {
+                              "label": "Arabian Taj Indora Chowk",
+                              "url": "https://www.swiggy.com/city/nagpur/arabian-taj-indora-chowk-sadar-rest63967"
+                            },
+                            {
+                              "label": "Panino Sandwich Co.",
+                              "url": "https://www.swiggy.com/city/nagpur/panino-sandwich-co--sadar-rest927385"
+                            },
+                            {
+                              "label": "McDonald's",
+                              "url": "https://www.swiggy.com/city/nagpur/mcdonalds-sadar-rest1018608"
+                            },
+                            {
+                              "label": "Domino's Pizza",
+                              "url": "https://www.swiggy.com/city/nagpur/dominos-pizza-sadar-rest76085"
+                            },
+                            {
+                              "label": "Hotel Bartania",
+                              "url": "https://www.swiggy.com/city/nagpur/hotel-bartania-sadar-rest64722"
+                            },
+                            {
+                              "label": "Dessert & Co",
+                              "url": "https://www.swiggy.com/city/nagpur/dessert-and-co-sadar-rest896825"
+                            },
+                            {
+                              "label": "Mullaji Zillha Biryani family Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/mullaji-zillha-biryani-family-restaurant-sadar-rest734134"
+                            },
+                            {
+                              "label": "Anaya Bakery",
+                              "url": "https://www.swiggy.com/city/nagpur/anaya-bakery-sadar-rest103936"
+                            },
+                            {
+                              "label": "Oven Story Pizza",
+                              "url": "https://www.swiggy.com/city/nagpur/oven-story-pizza-sadar-rest53420"
+                            },
+                            {
+                              "label": "Shree Ganesh Farsan",
+                              "url": "https://www.swiggy.com/city/nagpur/shree-ganesh-farsan-sadar-rest70380"
+                            },
+                            {
+                              "label": "Cluckers Fried Chicken Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/cluckers-fried-chicken-restaurant-sadar-rest56276"
+                            },
+                            {
+                              "label": "LunchBox - Meals and Thalis",
+                              "url": "https://www.swiggy.com/city/nagpur/lunchbox-meals-and-thalis-sadar-rest63013"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Popular Restaurant In Nagpur",
+                          "links": [
+                            {
+                              "label": "Ramji's food plaza",
+                              "url": "https://www.swiggy.com/city/nagpur/ramjis-food-plaza-ayodhya-nagar-rest456936"
+                            },
+                            {
+                              "label": "Haldiram's Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-restaurant-manish-nagar-rest61673"
+                            },
+                            {
+                              "label": "BARBECUE Sadar",
+                              "url": "https://www.swiggy.com/city/nagpur/barbecue-sadar-mount-road-rest58210"
+                            },
+                            {
+                              "label": "Mullaji Zillah Biryani Center",
+                              "url": "https://www.swiggy.com/city/nagpur/mullaji-zillah-biryani-center-sadar-rest180402"
+                            },
+                            {
+                              "label": "Burger King",
+                              "url": "https://www.swiggy.com/city/nagpur/burger-king-chhaoni-rd-rest1008366"
+                            },
+                            {
+                              "label": "Hotel Lucky",
+                              "url": "https://www.swiggy.com/city/nagpur/hotel-lucky-gandhibagh-rest861862"
+                            },
+                            {
+                              "label": "Shraddha Farsan Samosewala",
+                              "url": "https://www.swiggy.com/city/nagpur/shraddha-farsan-samosewala-gandhibagh-rest876731"
+                            },
+                            {
+                              "label": "Shruti Veg Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/shruti-veg-restaurant-vivekanand-nagar-rest84476"
+                            },
+                            {
+                              "label": "Kings Restro And Cafe",
+                              "url": "https://www.swiggy.com/city/nagpur/kings-restro-and-cafe-main-bazar-road-rest730790"
+                            },
+                            {
+                              "label": "The Chappru Street",
+                              "url": "https://www.swiggy.com/city/nagpur/the-chappru-street-rajmahal-queta-colony-rest360997"
+                            },
+                            {
+                              "label": "Hyderabad Biryani.com",
+                              "url": "https://www.swiggy.com/city/nagpur/hyderabad-biryani-com-sadar-civil-lines-city-rest406148"
+                            },
+                            {
+                              "label": "Burger Singh(Big Punjabi Burgers)",
+                              "url": "https://www.swiggy.com/city/nagpur/burger-singh-big-punjabi-burgers--chinwara-road-rest769581"
+                            },
+                            {
+                              "label": "Babbu Hotel",
+                              "url": "https://www.swiggy.com/city/nagpur/babbu-hotel-mominpura-rest215500"
+                            },
+                            {
+                              "label": "Asli Coffee Co.",
+                              "url": "https://www.swiggy.com/city/nagpur/asli-coffee-co--pratap-nagar-rest1090903"
+                            },
+                            {
+                              "label": "Haldiram's Sweets and Namkeen",
+                              "url": "https://www.swiggy.com/city/nagpur/haldirams-sweets-and-namkeen-nandanvan-rest1225369"
+                            },
+                            {
+                              "label": "McDonald's",
+                              "url": "https://www.swiggy.com/city/nagpur/mcdonalds-trillium-mall-rest185820"
+                            },
+                            {
+                              "label": "Checkers",
+                              "url": "https://www.swiggy.com/city/nagpur/checkers-sadar-rest56350"
+                            },
+                            {
+                              "label": "Variety Foods",
+                              "url": "https://www.swiggy.com/city/nagpur/variety-foods-vivekanand-nagar-rest55319"
+                            },
+                            {
+                              "label": "Corridor Seven Coffee Roasters",
+                              "url": "https://www.swiggy.com/city/nagpur/corridor-seven-coffee-roasters-sitabuldi-rest270186"
+                            },
+                            {
+                              "label": "KFC",
+                              "url": "https://www.swiggy.com/city/nagpur/kfc-ambazaari-road-rest340377"
+                            },
+                            {
+                              "label": "Brim - Corridor Seven Cafe",
+                              "url": "https://www.swiggy.com/city/nagpur/brim-corridor-seven-cafe-sadar-rest1301910"
+                            },
+                            {
+                              "label": "Shreenath Pavbhaji Pulao Cuisine",
+                              "url": "https://www.swiggy.com/city/nagpur/shreenath-pavbhaji-pulao-cuisine-bajaj-nagar-rest158511"
+                            },
+                            {
+                              "label": "Khichadiwala",
+                              "url": "https://www.swiggy.com/city/nagpur/khichadiwala-ramdaspeth-rest53520"
+                            },
+                            {
+                              "label": "Two Brothers Shawarma",
+                              "url": "https://www.swiggy.com/city/nagpur/two-brothers-shawarma-gayatri-nagar-rest113722"
+                            },
+                            {
+                              "label": "Yummi Momos",
+                              "url": "https://www.swiggy.com/city/nagpur/yummi-momos-chaoni-rest81070"
+                            },
+                            {
+                              "label": "Meal Box - Thali, Biryani & Combo",
+                              "url": "https://www.swiggy.com/city/nagpur/meal-box-thali-biryani-and-combo-liberty-chowk-rest840018"
+                            },
+                            {
+                              "label": "Bikkgane Biryani",
+                              "url": "https://www.swiggy.com/city/nagpur/bikkgane-biryani-azad-chowk-near-gandhi-putla-rest1117364"
+                            },
+                            {
+                              "label": "Reddy's Gokul Brindavan Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/reddys-gokul-brindavan-restaurant-dharampeth-rest55054"
+                            },
+                            {
+                              "label": "Two Brothers Shawarma Express",
+                              "url": "https://www.swiggy.com/city/nagpur/two-brothers-shawarma-express-bajaj-nagar-rest773319"
+                            },
+                            {
+                              "label": "Nothing Before Coffee",
+                              "url": "https://www.swiggy.com/city/nagpur/nothing-before-coffee-bajaj-nagar-rest1135331"
+                            },
+                            {
+                              "label": "Theobroma",
+                              "url": "https://www.swiggy.com/city/nagpur/theobroma-abhyankar-nagar-rest787574"
+                            },
+                            {
+                              "label": "Kings Kitchen",
+                              "url": "https://www.swiggy.com/city/nagpur/kings-kitchen-sugat-nagar-rest102728"
+                            },
+                            {
+                              "label": "Delhi Chaap Corner",
+                              "url": "https://www.swiggy.com/city/nagpur/delhi-chaap-corner-chhaoni-rest360843"
+                            },
+                            {
+                              "label": "Al Zam Zam",
+                              "url": "https://www.swiggy.com/city/nagpur/al-zam-zam-lakadganj-rest58326"
+                            },
+                            {
+                              "label": "Tasty Thali",
+                              "url": "https://www.swiggy.com/city/nagpur/tasty-thali-ramdaspeth-rest318004"
+                            },
+                            {
+                              "label": "Ramji Shamji Pohewale",
+                              "url": "https://www.swiggy.com/city/nagpur/ramji-shamji-pohewale-wardha-road-rest163879"
+                            },
+                            {
+                              "label": "Subway",
+                              "url": "https://www.swiggy.com/city/nagpur/subway-shewalkar-garden-rest758539"
+                            },
+                            {
+                              "label": "Shankar Bhojnalaya (Thali Wala)",
+                              "url": "https://www.swiggy.com/city/nagpur/shankar-bhojnalaya-thali-wala--ramdaspeth-rest63974"
+                            },
+                            {
+                              "label": "Taco Bell",
+                              "url": "https://www.swiggy.com/city/nagpur/taco-bell-vr-mall-rest654092"
+                            },
+                            {
+                              "label": "Dahiya Momos",
+                              "url": "https://www.swiggy.com/city/nagpur/dahiya-momos-manish-nagar-rest115835"
+                            },
+                            {
+                              "label": "Salt And Pepper",
+                              "url": "https://www.swiggy.com/city/nagpur/salt-and-pepper-sitabuldi-rest934283"
+                            },
+                            {
+                              "label": "Rolls and Bowls",
+                              "url": "https://www.swiggy.com/city/nagpur/rolls-and-bowls-dharampeth-rest1243986"
+                            },
+                            {
+                              "label": "Suryakant Saoji",
+                              "url": "https://www.swiggy.com/city/nagpur/suryakant-saoji-lakadganj-rest60708"
+                            },
+                            {
+                              "label": "Natural Ice Cream",
+                              "url": "https://www.swiggy.com/city/nagpur/natural-ice-cream-khare-town-rest114358"
+                            },
+                            {
+                              "label": "Pizza Hut",
+                              "url": "https://www.swiggy.com/city/nagpur/pizza-hut-chhaoni-rest528951"
+                            },
+                            {
+                              "label": "Shawarma Klub",
+                              "url": "https://www.swiggy.com/city/nagpur/shawarma-klub-ayodhya-nagar-rest472550"
+                            },
+                            {
+                              "label": "MS Chaap Corner",
+                              "url": "https://www.swiggy.com/city/nagpur/ms-chaap-corner-nandanvan-rest367124"
+                            },
+                            {
+                              "label": "Liberty Family Restaurant",
+                              "url": "https://www.swiggy.com/city/nagpur/liberty-family-restaurant-sadar-rest60607"
+                            },
+                            {
+                              "label": "Rajesh Samosa",
+                              "url": "https://www.swiggy.com/city/nagpur/rajesh-samosa-vivekanand-nagar-rest83721"
+                            },
+                            {
+                              "label": "Krishnum Food Plaza",
+                              "url": "https://www.swiggy.com/city/nagpur/krishnum-food-plaza-civil-lines-rest56382"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "City Hub Page",
+                          "links": [
+                            {
+                              "label": "Bangalore",
+                              "url": "https://www.swiggy.com/city/bangalore/order-online"
+                            },
+                            {
+                              "label": "Hyderabad",
+                              "url": "https://www.swiggy.com/city/hyderabad/order-online"
+                            },
+                            {
+                              "label": "Mumbai",
+                              "url": "https://www.swiggy.com/city/mumbai/order-online"
+                            },
+                            {
+                              "label": "Chennai",
+                              "url": "https://www.swiggy.com/city/chennai/order-online"
+                            },
+                            {
+                              "label": "Delhi",
+                              "url": "https://www.swiggy.com/city/delhi/order-online"
+                            },
+                            {
+                              "label": "Pune",
+                              "url": "https://www.swiggy.com/city/pune/order-online"
+                            },
+                            {
+                              "label": "Kolkata",
+                              "url": "https://www.swiggy.com/city/kolkata/order-online"
+                            },
+                            {
+                              "label": "Gurgaon",
+                              "url": "https://www.swiggy.com/city/gurgaon/order-online"
+                            },
+                            {
+                              "label": "Noida 1",
+                              "url": "https://www.swiggy.com/city/noida-1/order-online"
+                            },
+                            {
+                              "label": "Kochi",
+                              "url": "https://www.swiggy.com/city/kochi/order-online"
+                            },
+                            {
+                              "label": "Ahmedabad",
+                              "url": "https://www.swiggy.com/city/ahmedabad/order-online"
+                            },
+                            {
+                              "label": "Chandigarh",
+                              "url": "https://www.swiggy.com/city/chandigarh/order-online"
+                            },
+                            {
+                              "label": "Coimbatore",
+                              "url": "https://www.swiggy.com/city/coimbatore/order-online"
+                            },
+                            {
+                              "label": "Jaipur",
+                              "url": "https://www.swiggy.com/city/jaipur/order-online"
+                            },
+                            {
+                              "label": "Lucknow",
+                              "url": "https://www.swiggy.com/city/lucknow/order-online"
+                            },
+                            {
+                              "label": "Thiruvananthapuram",
+                              "url": "https://www.swiggy.com/city/thiruvananthapuram/order-online"
+                            },
+                            {
+                              "label": "Vizag",
+                              "url": "https://www.swiggy.com/city/vizag/order-online"
+                            },
+                            {
+                              "label": "Central Goa",
+                              "url": "https://www.swiggy.com/city/central-goa/order-online"
+                            },
+                            {
+                              "label": "Noida",
+                              "url": "https://www.swiggy.com/city/noida/order-online"
+                            },
+                            {
+                              "label": "Surat",
+                              "url": "https://www.swiggy.com/city/surat/order-online"
+                            },
+                            {
+                              "label": "Bhubaneswar",
+                              "url": "https://www.swiggy.com/city/bhubaneswar/order-online"
+                            },
+                            {
+                              "label": "Indore",
+                              "url": "https://www.swiggy.com/city/indore/order-online"
+                            },
+                            {
+                              "label": "Nagpur",
+                              "url": "https://www.swiggy.com/city/nagpur/order-online"
+                            },
+                            {
+                              "label": "Vijayawada",
+                              "url": "https://www.swiggy.com/city/vijayawada/order-online"
+                            },
+                            {
+                              "label": "Patna",
+                              "url": "https://www.swiggy.com/city/patna/order-online"
+                            },
+                            {
+                              "label": "Guwahati",
+                              "url": "https://www.swiggy.com/city/guwahati/order-online"
+                            },
+                            {
+                              "label": "Ludhiana",
+                              "url": "https://www.swiggy.com/city/ludhiana/order-online"
+                            },
+                            {
+                              "label": "Vadodara",
+                              "url": "https://www.swiggy.com/city/vadodara/order-online"
+                            },
+                            {
+                              "label": "Mangaluru",
+                              "url": "https://www.swiggy.com/city/mangaluru/order-online"
+                            },
+                            {
+                              "label": "Mysore",
+                              "url": "https://www.swiggy.com/city/mysore/order-online"
+                            },
+                            {
+                              "label": "Dehradun",
+                              "url": "https://www.swiggy.com/city/dehradun/order-online"
+                            },
+                            {
+                              "label": "Faridabad",
+                              "url": "https://www.swiggy.com/city/faridabad/order-online"
+                            },
+                            {
+                              "label": "Thrissur",
+                              "url": "https://www.swiggy.com/city/thrissur/order-online"
+                            },
+                            {
+                              "label": "Bhopal",
+                              "url": "https://www.swiggy.com/city/bhopal/order-online"
+                            },
+                            {
+                              "label": "Rajkot",
+                              "url": "https://www.swiggy.com/city/rajkot/order-online"
+                            },
+                            {
+                              "label": "Madurai",
+                              "url": "https://www.swiggy.com/city/madurai/order-online"
+                            },
+                            {
+                              "label": "Kanpur",
+                              "url": "https://www.swiggy.com/city/kanpur/order-online"
+                            },
+                            {
+                              "label": "Kozhikode",
+                              "url": "https://www.swiggy.com/city/kozhikode/order-online"
+                            },
+                            {
+                              "label": "Pondicherry",
+                              "url": "https://www.swiggy.com/city/pondicherry/order-online"
+                            },
+                            {
+                              "label": "Varanasi",
+                              "url": "https://www.swiggy.com/city/varanasi/order-online"
+                            },
+                            {
+                              "label": "Nashik",
+                              "url": "https://www.swiggy.com/city/nashik/order-online"
+                            },
+                            {
+                              "label": "Tirupati",
+                              "url": "https://www.swiggy.com/city/tirupati/order-online"
+                            },
+                            {
+                              "label": "Guntur",
+                              "url": "https://www.swiggy.com/city/guntur/order-online"
+                            },
+                            {
+                              "label": "Trichy",
+                              "url": "https://www.swiggy.com/city/trichy/order-online"
+                            },
+                            {
+                              "label": "Kota",
+                              "url": "https://www.swiggy.com/city/kota/order-online"
+                            },
+                            {
+                              "label": "Raipur",
+                              "url": "https://www.swiggy.com/city/raipur/order-online"
+                            },
+                            {
+                              "label": "Kollam",
+                              "url": "https://www.swiggy.com/city/kollam/order-online"
+                            },
+                            {
+                              "label": "Vellore",
+                              "url": "https://www.swiggy.com/city/vellore/order-online"
+                            },
+                            {
+                              "label": "Ranchi",
+                              "url": "https://www.swiggy.com/city/ranchi/order-online"
+                            },
+                            {
+                              "label": "Jalandhar",
+                              "url": "https://www.swiggy.com/city/jalandhar/order-online"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Popular Dish Restaurants in Nagpur",
+                          "links": [
+                            {
+                              "label": "Biryani",
+                              "url": "https://www.swiggy.com/city/nagpur/biryani-dish-restaurants"
+                            },
+                            {
+                              "label": "Burger",
+                              "url": "https://www.swiggy.com/city/nagpur/burger-dish-restaurants"
+                            },
+                            {
+                              "label": "Pizza",
+                              "url": "https://www.swiggy.com/city/nagpur/pizza-dish-restaurants"
+                            },
+                            {
+                              "label": "Sandwich",
+                              "url": "https://www.swiggy.com/city/nagpur/sandwich-dish-restaurants"
+                            },
+                            {
+                              "label": "Roll",
+                              "url": "https://www.swiggy.com/city/nagpur/roll-dish-restaurants"
+                            },
+                            {
+                              "label": "Momos",
+                              "url": "https://www.swiggy.com/city/nagpur/momos-dish-restaurants"
+                            },
+                            {
+                              "label": "Thali",
+                              "url": "https://www.swiggy.com/city/nagpur/thali-dish-restaurants"
+                            },
+                            {
+                              "label": "Noodles",
+                              "url": "https://www.swiggy.com/city/nagpur/noodles-dish-restaurants"
+                            },
+                            {
+                              "label": "Curry",
+                              "url": "https://www.swiggy.com/city/nagpur/curry-dish-restaurants"
+                            },
+                            {
+                              "label": "Dosa",
+                              "url": "https://www.swiggy.com/city/nagpur/dosa-dish-restaurants"
+                            },
+                            {
+                              "label": "Khichdi",
+                              "url": "https://www.swiggy.com/city/nagpur/khichdi-dish-restaurants"
+                            },
+                            {
+                              "label": "Fried rice",
+                              "url": "https://www.swiggy.com/city/nagpur/fried-rice-dish-restaurants"
+                            },
+                            {
+                              "label": "Shawarma",
+                              "url": "https://www.swiggy.com/city/nagpur/shawarma-dish-restaurants"
+                            },
+                            {
+                              "label": "Idli",
+                              "url": "https://www.swiggy.com/city/nagpur/idli-dish-restaurants"
+                            },
+                            {
+                              "label": "Other dry starters",
+                              "url": "https://www.swiggy.com/city/nagpur/other-dry-starters-dish-restaurants"
+                            },
+                            {
+                              "label": "Poha",
+                              "url": "https://www.swiggy.com/city/nagpur/poha-dish-restaurants"
+                            },
+                            {
+                              "label": "Paratha",
+                              "url": "https://www.swiggy.com/city/nagpur/paratha-dish-restaurants"
+                            },
+                            {
+                              "label": "Pasta",
+                              "url": "https://www.swiggy.com/city/nagpur/pasta-dish-restaurants"
+                            },
+                            {
+                              "label": "Other rice varieties",
+                              "url": "https://www.swiggy.com/city/nagpur/other-rice-varieties-dish-restaurants"
+                            },
+                            {
+                              "label": "Pav bhaji",
+                              "url": "https://www.swiggy.com/city/nagpur/pav-bhaji-dish-restaurants"
+                            },
+                            {
+                              "label": "Bhature",
+                              "url": "https://www.swiggy.com/city/nagpur/bhature-dish-restaurants"
+                            },
+                            {
+                              "label": "Shake",
+                              "url": "https://www.swiggy.com/city/nagpur/shake-dish-restaurants"
+                            },
+                            {
+                              "label": "Vada pav",
+                              "url": "https://www.swiggy.com/city/nagpur/vada-pav-dish-restaurants"
+                            },
+                            {
+                              "label": "Pulao",
+                              "url": "https://www.swiggy.com/city/nagpur/pulao-dish-restaurants"
+                            },
+                            {
+                              "label": "Kachori",
+                              "url": "https://www.swiggy.com/city/nagpur/kachori-dish-restaurants"
+                            },
+                            {
+                              "label": "Roti",
+                              "url": "https://www.swiggy.com/city/nagpur/roti-dish-restaurants"
+                            },
+                            {
+                              "label": "Taco",
+                              "url": "https://www.swiggy.com/city/nagpur/taco-dish-restaurants"
+                            },
+                            {
+                              "label": "Maggi",
+                              "url": "https://www.swiggy.com/city/nagpur/maggi-dish-restaurants"
+                            },
+                            {
+                              "label": "Upma",
+                              "url": "https://www.swiggy.com/city/nagpur/upma-dish-restaurants"
+                            },
+                            {
+                              "label": "Uttapam",
+                              "url": "https://www.swiggy.com/city/nagpur/uttapam-dish-restaurants"
+                            },
+                            {
+                              "label": "Platter",
+                              "url": "https://www.swiggy.com/city/nagpur/platter-dish-restaurants"
+                            },
+                            {
+                              "label": "Vada",
+                              "url": "https://www.swiggy.com/city/nagpur/vada-dish-restaurants"
+                            },
+                            {
+                              "label": "Ice cream",
+                              "url": "https://www.swiggy.com/city/nagpur/ice-cream-dish-restaurants"
+                            },
+                            {
+                              "label": "Slider",
+                              "url": "https://www.swiggy.com/city/nagpur/slider-dish-restaurants"
+                            },
+                            {
+                              "label": "Fries",
+                              "url": "https://www.swiggy.com/city/nagpur/fries-dish-restaurants"
+                            },
+                            {
+                              "label": "Soft drinks",
+                              "url": "https://www.swiggy.com/city/nagpur/soft-drinks-dish-restaurants"
+                            },
+                            {
+                              "label": "Cake",
+                              "url": "https://www.swiggy.com/city/nagpur/cake-dish-restaurants"
+                            },
+                            {
+                              "label": "Sub",
+                              "url": "https://www.swiggy.com/city/nagpur/sub-dish-restaurants"
+                            },
+                            {
+                              "label": "Manchurian",
+                              "url": "https://www.swiggy.com/city/nagpur/manchurian-dish-restaurants"
+                            },
+                            {
+                              "label": "Salad",
+                              "url": "https://www.swiggy.com/city/nagpur/salad-dish-restaurants"
+                            },
+                            {
+                              "label": "Other chaats",
+                              "url": "https://www.swiggy.com/city/nagpur/other-chaats-dish-restaurants"
+                            },
+                            {
+                              "label": "Poori (Breakfast)",
+                              "url": "https://www.swiggy.com/city/nagpur/poori-breakfast--dish-restaurants"
+                            },
+                            {
+                              "label": "Cold coffee",
+                              "url": "https://www.swiggy.com/city/nagpur/cold-coffee-dish-restaurants"
+                            },
+                            {
+                              "label": "Chaap",
+                              "url": "https://www.swiggy.com/city/nagpur/chaap-dish-restaurants"
+                            },
+                            {
+                              "label": "Pav",
+                              "url": "https://www.swiggy.com/city/nagpur/pav-dish-restaurants"
+                            },
+                            {
+                              "label": "Puff",
+                              "url": "https://www.swiggy.com/city/nagpur/puff-dish-restaurants"
+                            },
+                            {
+                              "label": "Bhurji",
+                              "url": "https://www.swiggy.com/city/nagpur/bhurji-dish-restaurants"
+                            },
+                            {
+                              "label": "Garlic bread",
+                              "url": "https://www.swiggy.com/city/nagpur/garlic-bread-dish-restaurants"
+                            },
+                            {
+                              "label": "Sauce",
+                              "url": "https://www.swiggy.com/city/nagpur/sauce-dish-restaurants"
+                            },
+                            {
+                              "label": "Wings",
+                              "url": "https://www.swiggy.com/city/nagpur/wings-dish-restaurants"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Top QSR & Chains in Nagpur",
+                          "links": [
+                            {
+                              "label": "Dahiya Momos",
+                              "url": "https://www.swiggy.com/city/nagpur/dahiya-momos"
+                            },
+                            {
+                              "label": "Pohewala",
+                              "url": "https://www.swiggy.com/city/nagpur/pohewala"
+                            },
+                            {
+                              "label": "Mammas Kitchen",
+                              "url": "https://www.swiggy.com/city/nagpur/mammas-kitchen"
+                            },
+                            {
+                              "label": "Cakes Inn",
+                              "url": "https://www.swiggy.com/city/nagpur/cakes-inn"
+                            },
+                            {
+                              "label": "Ayushi Paratha",
+                              "url": "https://www.swiggy.com/city/nagpur/ayushi-paratha"
+                            },
+                            {
+                              "label": "Manish Bakery",
+                              "url": "https://www.swiggy.com/city/nagpur/manish-bakery"
+                            },
+                            {
+                              "label": "Cake Links",
+                              "url": "https://www.swiggy.com/city/nagpur/cake-links"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                      "socialLinks": [
+                        {
+                          "label": "Linkedin",
+                          "url": "https://www.linkedin.com/company/swiggy-in/"
+                        },
+                        {
+                          "label": "Instagram",
+                          "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                        },
+                        {
+                          "label": "Facebook",
+                          "url": "https://www.facebook.com/swiggy.in/"
+                        },
+                        {
+                          "label": "Pinterest",
+                          "url": "https://in.pinterest.com/swiggyindia/"
+                        },
+                        {
+                          "label": "Twitter",
+                          "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                      "title": "For better experience,download the Swiggy app now",
+                      "androidAppImage": "portal/m/play_store.png",
+                      "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                      "iosAppImage": "portal/m/app_store.png",
+                      "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                      "title": "Order from Mullaji Zillah Biryani Center online in Nagpur | Swiggy",
+                      "description": "Order Online from Mullaji Zillah Biryani Center in Sadar, Nagpur for delicious indian food. Enjoy fast delivery with Swiggy.",
+                      "keywords": "Mullaji Zillah Biryani Center, Sadar, Nagpur, indian, food delivery, order food online"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODQ1NTQ2MzMsImlhdCI6MTc4NDU1MTAzMywic2Vzc2lvbl9kYXRhIjoiQVpKeHVyMUI4ZGRtRzF2N3dhV3lCcXl0Y1UwY0NMUnFnNmhHeFpVK3U4Njl4clppVGdUQ0dMN1dWMlhmK00wTXlNak9jUTBpRTc4WlhlaTdMMlZvYkh3UDFiU2RWWVdXVm9LQ0RPTzBJdlhQVktDL3FDZzdod2IxK2lyVU1kaUFLZ0ZEbXQxb05hM0NHQ3BrNXJ3cCtLejhPTnhZZ3hKUm90TzNnS0xHaUZQU2NFQTcwNXcvRWY4Mmp4Um9xekE2eGhSU3hXaHUwU1ROVk44YjlGVXhtQT09Iiwic2lkIjoic2w2NzFiNjFiM2MtOWZiYi00MWQzLTk1YmUtM2ZhM2I2NjFkIiwic3ViIjoiOTY1YjE2YzMtZmZiOC00NWM0LTg4ZTItYTliMDljYmQyN2EzIiwidXNlcl9pZCI6IjAifQ.gVBYZ1kH_fGROO95CvaF_l9Zd1LysknCZY3zufUMYC4",
+  "sid": "sl671b61b3c-9fbb-41d3-95be-3fa3b661d",
+  "deviceId": "c56ab77f-137e-21b8-b564-13ad4dadf895",
+  "csrfToken": "jFz5SyT3AXZc-adjCO5r1GMfe3bK9HdNYJ3AujLw"
+}
